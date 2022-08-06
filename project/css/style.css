@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+.main_body {
+    text-align: center;
+    margin-left: 340px;
+    margin-right: 340px;
+    background-color: pink;
+    height: 90%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.sdiv {
+    margin: 10px;
+}
+.top {
+    margin-top: 30px;
+}
+.main_title {
+    font-size: larger;
+}
