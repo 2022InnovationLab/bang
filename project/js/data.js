@@ -98,8 +98,10 @@ for(var i=1; i < NEUROSURGER_keys.length; i++){
     NEUROSURGER_vals_arr.push(NEUROSURGER_values[i]);
 }
 
-console.log(NEUROSURGER_vals_arr);
 
+/**
+ * 질문 변경
+ */
     var plus1 = 1;
 function change() {
     plus1;
@@ -121,6 +123,6 @@ function change() {
     }
 
     if(plus1 == 10) {
-        location.href = './result/result.html';
+        location.href = './result.html';
     }
 }

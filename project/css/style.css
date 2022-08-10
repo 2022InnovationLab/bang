@@ -11,6 +11,7 @@ html, body{
     margin-right: 12%;
     background-color: pink;
     height: 90%;
+    font-weight: 500;
 }
 .sdiv {
     margin: 10px;
