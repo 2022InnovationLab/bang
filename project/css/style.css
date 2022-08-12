@@ -39,3 +39,6 @@ html, body{
     height: 50%;
     object-fit: cover;
 }
+.result {
+    margin-top: 10%;
+}

@@ -123,6 +123,7 @@ function change() {
     }
 
     if(plus1 == 10) {
+        hospital = "을 찾지 못했습니다."
         location.href = './result.html';
     }
 }
